@@ -442,12 +442,14 @@
 -analyzer:"/Applications/Unity/Hub/Editor/6000.1.5f1/Unity.app/Contents/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
 -analyzer:"/Applications/Unity/Hub/Editor/6000.1.5f1/Unity.app/Contents/Tools/Unity.SourceGenerators/Unity.UIToolkit.SourceGenerator.dll"
 "Assets/Undead Survivor/PlayerMovement.cs"
+"Assets/Undead Survivor/Scripts/Bullet.cs"
 "Assets/Undead Survivor/Scripts/Enemy.cs"
 "Assets/Undead Survivor/Scripts/GameManager.cs"
 "Assets/Undead Survivor/Scripts/Player.cs"
 "Assets/Undead Survivor/Scripts/PoolManager.cs"
 "Assets/Undead Survivor/Scripts/Reposition.cs"
 "Assets/Undead Survivor/Scripts/Respawn.cs"
+"Assets/Undead Survivor/Scripts/Wepon.cs"
 -langversion:9.0
 /deterministic
 /optimize+
